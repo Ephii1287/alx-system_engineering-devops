@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 775 /root
+chmod u0g-rx /root
