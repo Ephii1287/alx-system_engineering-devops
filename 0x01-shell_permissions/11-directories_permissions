@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u0g-rx /root
+chmod -R a+X /root
