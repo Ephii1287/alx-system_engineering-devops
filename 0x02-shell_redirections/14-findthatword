@@ -1,2 +1,2 @@
 #!/bin/bash
-grep lazy /etc/passwd
+grep root /etc/passwd
