@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 /c/users/ephii/desktop/file2.txt > /c/users/ephii/desktop/file2.txt
+tail -1 iacta >> iacta
